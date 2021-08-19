@@ -1,0 +1,1 @@
+alias config='/usr/bin/git --git-dir=$HOME/.config/cfg.mac/ --work-tree=$HOME'
