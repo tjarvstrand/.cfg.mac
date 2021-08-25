@@ -1,0 +1,1 @@
+/Users/tjarvstrand/.config/cfg/.bashrc.d/
